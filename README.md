@@ -1,6 +1,6 @@
 ## EX NO -- 1 : Cloud-account-set-up-and-services
-## REG NO : 212224040017
-## NAME : AHAMED SHINE A
+## REG NO : 212223040153
+## NAME : PRAVEENA M
 ## Aim:
 To create an cloud account in AWS and to explore all of its services.
 
@@ -71,6 +71,11 @@ Services Overview:
 • Explore all the available services in AWS platform.
 
 ## Output:
+
+<img width="1029" height="577" alt="image" src="https://github.com/user-attachments/assets/88a27cac-d8d3-4efb-b343-cf0b8f46c10d" />
+
+<img width="1032" height="585" alt="image" src="https://github.com/user-attachments/assets/c56a1186-c3f8-4164-bfa7-17296d30d00d" />
+
 
 ## Result:
 Thus an account was created in AWS platform and all the services were explored.
